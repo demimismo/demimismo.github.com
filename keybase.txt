@@ -1,0 +1,77 @@
+==================================================================
+https://keybase.io/demimismo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://demimismo.com
+  * I am demimismo (https://keybase.io/demimismo) on keybase.
+  * I have a public key with fingerprint F529 65CA 9262 89C9 2F1F  DFBE D6C2 F97E 068E 0A8D
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.3.3"
+        },
+        "key": {
+            "fingerprint": "f52965ca926289c92f1fdfbed6c2f97e068e0a8d",
+            "host": "keybase.io",
+            "key_id": "D6C2F97E068E0A8D",
+            "uid": "7f0a50fa4db4c17539c43be7e893e800",
+            "username": "demimismo"
+        },
+        "merkle_root": {
+            "ctime": 1400685613,
+            "hash": "b7113f5c7061303286014fb0ef64838fd9fd19cb5bb08d2079772ec3c3fb8a65350d1c150ebd8219259a6ce0aa683d64873f9f81799a802ebd2662d052edcae2",
+            "seqno": 10148
+        },
+        "service": {
+            "hostname": "demimismo.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1400685719,
+    "expire_in": 157680000,
+    "prev": "b03bde851b31ba2b73224b3079f96ad9e22a6d00c6d9d00a52663b2d9b551d97",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+Comment: GPGTools - https://gpgtools.org
+
+owFdUltsFFUY3qq0YYP3GI2WiENCA7abc5lzZk55MFDwoRgEBTGhZj3X7dDOzjoz
+La51VYKX1KRofOgGQwiaijE0hhgTC4E+aH0RQStFjdfGGKOBmJBIrTUWzzQ1ik/n
+8n//93/fd87L116dyzd8/v4fTzXuyw81nPpF5B58cqI+4IhIVZ32AUf2BrqcZrsy
+D7XT7vToquCJLgTRinKkdGFXsmIR0+r06zgJorJFgQIuYKfWmsGzZhOUSzquxEHG
+5RiCGCWSM0SRzyRDBhplhFZUIsM8DaivAfeVpeyOkvSKqc4CZzFQ9nYD7UD3Mm+j
+xW8E6/wNtta3UPAM4AQY7irhSugRzKSLhfa0z7D2AciAiY4XLSkdBmGQhFEmONRx
+T68uxlG04FqmQYaBLrBDCIXYSuJJt+0SHoTYEOkBewsw8imArhFAG+r62DeKGQWZ
+FEQI4CsEPOZ5SEsssRE+pwQToKCEBGihfAQZIoxTaX1z6mNlOTxsmPGhxxj3AbIo
+RClSgCCtJNfIekj0Y+XIirOD/Vp2jPsDqTPZWWz/d1eQUWibKnGURjLqtaXuNK20
+Z6bTaiWD7tbi7eIiS1EEZWVf7b/PCi30ykA8yFod/XgliHUxyBDEozZfALI5uj+L
+CWChtE+gwFBwJDyMkCuwjcMwyhXTCHGqAJBUMbtwYl1igRQThEDFvH9tUquTlyxl
+EpTKPO2LtVMbbGi+JteQzzUuuSr7t7n80hv++cyfftl0efsDF9dvL/xK26dPp2Qk
+vLTZq12+dddY04ctKx+a6vpg96vnXncOPXpu7fXbqm99O/dm98PPdX1xcWcL6Tn6
+3R0Xvn/iz2iZ6H/vxBY0+/SFVYWeUkcws/fZtgMtQzNnTr+w/MZLe9Bf+zvn971b
+77r7tuteG147cvbwM223D5n1Y+M/z7rpqWl3rrl684t0sHNrddOeA/PvjJ/4anrd
+4U/uf2nuzNYtycrO0fzyo1MnB9uWnN9bOzI5o9ac3zR28JvJNTuanY75sP4R/Xj8
+px+fH56dGD1212eTj0zvWFWfvHP/bDNuHK4vK23+rY9OrB450rf6lrP3Nd2zbfSV
+pTeFPyRvfP378Y7xgyNTAzN/Aw==
+=zsjH
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/demimismo
+
+==================================================================
