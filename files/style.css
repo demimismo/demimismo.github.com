@@ -1,21 +1,25 @@
-body {
-	background: transparent url(images/papel.jpg) top left repeat;
-	border-top: 10px solid black;
-	margin: 0;
-	font: 1.2em 'skolar regular', georgia, serif;
-  line-height: 150%;
+* {
+	font-size: 13pt;
+	font-weight: normal;
 }
 
-#content {
-	width: 550px;
-	margin: auto;
+body {
+	margin:1em;
+	background: 000;
+	font-family: 'courier new';
+	color: #00FF00;
+	background: #000400;
+}
+
+a {
+	background: #00FF00;
+	color: #223;
+	font-weight: bold;
+	padding-right: .25em;
 }
 
 h1 {
-  margin: 0;
-	background: transparent url(images/logo.jpg) top left no-repeat;
-	width: 251px;
-	height: 159px;
-	overflow: hidden;
-	text-indent: 1000px;
+	font-weight: bold;
+	color: #000400;
+	background: #00FF00;
 }
